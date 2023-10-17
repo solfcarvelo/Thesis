@@ -503,18 +503,18 @@ INPUT c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\
 INPUT c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\.\TeX_files\Introduction\03-thesis_structure.aux
 INPUT c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\.\TeX_files\Introduction\03-thesis_structure.aux
 INPUT c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Introduction\03-thesis_structure.aux
-INPUT c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\.\TeX_files\State_of_the_art\00-state_of_the_art.aux
-INPUT c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\.\TeX_files\State_of_the_art\00-state_of_the_art.aux
-INPUT c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\State_of_the_art\00-state_of_the_art.aux
-INPUT c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\.\TeX_files\State_of_the_art\01-chapter01.aux
-INPUT c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\.\TeX_files\State_of_the_art\01-chapter01.aux
-INPUT c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\State_of_the_art\01-chapter01.aux
-INPUT c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\.\TeX_files\State_of_the_art\02-chapter02.aux
-INPUT c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\.\TeX_files\State_of_the_art\02-chapter02.aux
-INPUT c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\State_of_the_art\02-chapter02.aux
-INPUT c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\.\TeX_files\State_of_the_art\03-chapter03.aux
-INPUT c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\.\TeX_files\State_of_the_art\03-chapter03.aux
-INPUT c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\State_of_the_art\03-chapter03.aux
+INPUT c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\.\TeX_files\Fundamentals\00-fundamentals.aux
+INPUT c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\.\TeX_files\Fundamentals\00-fundamentals.aux
+INPUT c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Fundamentals\00-fundamentals.aux
+INPUT c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\.\TeX_files\Fundamentals\01-chapter01.aux
+INPUT c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\.\TeX_files\Fundamentals\01-chapter01.aux
+INPUT c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Fundamentals\01-chapter01.aux
+INPUT c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\.\TeX_files\Fundamentals\02-chapter02.aux
+INPUT c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\.\TeX_files\Fundamentals\02-chapter02.aux
+INPUT c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Fundamentals\02-chapter02.aux
+INPUT c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\.\TeX_files\Fundamentals\03-chapter03.aux
+INPUT c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\.\TeX_files\Fundamentals\03-chapter03.aux
+INPUT c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Fundamentals\03-chapter03.aux
 INPUT c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\.\TeX_files\Developments_and_applications_p1\00-developments-applications-01.aux
 INPUT c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\.\TeX_files\Developments_and_applications_p1\00-developments-applications-01.aux
 INPUT c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Developments_and_applications_p1\00-developments-applications-01.aux
@@ -770,32 +770,27 @@ OUTPUT c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build
 INPUT .\TeX_files\Introduction\03-thesis_structure.tex
 INPUT .\TeX_files\Introduction\03-thesis_structure.tex
 INPUT TeX_files\Introduction\03-thesis_structure.tex
-INPUT .\TeX_files\State_of_the_art\00-state_of_the_art.tex
-INPUT .\TeX_files\State_of_the_art\00-state_of_the_art.tex
-OUTPUT c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\.\TeX_files\State_of_the_art\00-state_of_the_art.aux
-INPUT .\TeX_files\State_of_the_art\00-state_of_the_art.tex
-INPUT .\TeX_files\State_of_the_art\00-state_of_the_art.tex
-INPUT TeX_files\State_of_the_art\00-state_of_the_art.tex
-INPUT .\TeX_files\State_of_the_art\01-chapter01.tex
-INPUT .\TeX_files\State_of_the_art\01-chapter01.tex
-OUTPUT c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\.\TeX_files\State_of_the_art\01-chapter01.aux
-INPUT .\TeX_files\State_of_the_art\01-chapter01.tex
-INPUT .\TeX_files\State_of_the_art\01-chapter01.tex
-INPUT TeX_files\State_of_the_art\01-chapter01.tex
+OUTPUT c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\.\TeX_files\Fundamentals\00-fundamentals.aux
+INPUT .\TeX_files\Fundamentals\01-chapter01.tex
+INPUT .\TeX_files\Fundamentals\01-chapter01.tex
+OUTPUT c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\.\TeX_files\Fundamentals\01-chapter01.aux
+INPUT .\TeX_files\Fundamentals\01-chapter01.tex
+INPUT .\TeX_files\Fundamentals\01-chapter01.tex
+INPUT TeX_files\Fundamentals\01-chapter01.tex
 INPUT C:\Users\Sol\AppData\Local\Programs\MiKTeX\fonts\tfm\bitstrea\charter\bchr8t.tfm
 INPUT C:\Users\Sol\AppData\Local\Programs\MiKTeX\fonts\tfm\public\tex-gyre\ec-qhvr.tfm
-INPUT .\TeX_files\State_of_the_art\02-chapter02.tex
-INPUT .\TeX_files\State_of_the_art\02-chapter02.tex
-OUTPUT c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\.\TeX_files\State_of_the_art\02-chapter02.aux
-INPUT .\TeX_files\State_of_the_art\02-chapter02.tex
-INPUT .\TeX_files\State_of_the_art\02-chapter02.tex
-INPUT TeX_files\State_of_the_art\02-chapter02.tex
-INPUT .\TeX_files\State_of_the_art\03-chapter03.tex
-INPUT .\TeX_files\State_of_the_art\03-chapter03.tex
-OUTPUT c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\.\TeX_files\State_of_the_art\03-chapter03.aux
-INPUT .\TeX_files\State_of_the_art\03-chapter03.tex
-INPUT .\TeX_files\State_of_the_art\03-chapter03.tex
-INPUT TeX_files\State_of_the_art\03-chapter03.tex
+INPUT .\TeX_files\Fundamentals\02-chapter02.tex
+INPUT .\TeX_files\Fundamentals\02-chapter02.tex
+OUTPUT c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\.\TeX_files\Fundamentals\02-chapter02.aux
+INPUT .\TeX_files\Fundamentals\02-chapter02.tex
+INPUT .\TeX_files\Fundamentals\02-chapter02.tex
+INPUT TeX_files\Fundamentals\02-chapter02.tex
+INPUT .\TeX_files\Fundamentals\03-chapter03.tex
+INPUT .\TeX_files\Fundamentals\03-chapter03.tex
+OUTPUT c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\.\TeX_files\Fundamentals\03-chapter03.aux
+INPUT .\TeX_files\Fundamentals\03-chapter03.tex
+INPUT .\TeX_files\Fundamentals\03-chapter03.tex
+INPUT TeX_files\Fundamentals\03-chapter03.tex
 INPUT .\TeX_files\Developments_and_applications_p1\00-developments-applications-01.tex
 INPUT .\TeX_files\Developments_and_applications_p1\00-developments-applications-01.tex
 OUTPUT c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\.\TeX_files\Developments_and_applications_p1\00-developments-applications-01.aux
@@ -909,18 +904,18 @@ INPUT c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\
 INPUT c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\.\TeX_files\Introduction\03-thesis_structure.aux
 INPUT c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\.\TeX_files\Introduction\03-thesis_structure.aux
 INPUT c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Introduction\03-thesis_structure.aux
-INPUT c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\.\TeX_files\State_of_the_art\00-state_of_the_art.aux
-INPUT c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\.\TeX_files\State_of_the_art\00-state_of_the_art.aux
-INPUT c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\State_of_the_art\00-state_of_the_art.aux
-INPUT c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\.\TeX_files\State_of_the_art\01-chapter01.aux
-INPUT c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\.\TeX_files\State_of_the_art\01-chapter01.aux
-INPUT c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\State_of_the_art\01-chapter01.aux
-INPUT c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\.\TeX_files\State_of_the_art\02-chapter02.aux
-INPUT c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\.\TeX_files\State_of_the_art\02-chapter02.aux
-INPUT c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\State_of_the_art\02-chapter02.aux
-INPUT c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\.\TeX_files\State_of_the_art\03-chapter03.aux
-INPUT c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\.\TeX_files\State_of_the_art\03-chapter03.aux
-INPUT c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\State_of_the_art\03-chapter03.aux
+INPUT c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\.\TeX_files\Fundamentals\00-fundamentals.aux
+INPUT c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\.\TeX_files\Fundamentals\00-fundamentals.aux
+INPUT c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Fundamentals\00-fundamentals.aux
+INPUT c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\.\TeX_files\Fundamentals\01-chapter01.aux
+INPUT c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\.\TeX_files\Fundamentals\01-chapter01.aux
+INPUT c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Fundamentals\01-chapter01.aux
+INPUT c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\.\TeX_files\Fundamentals\02-chapter02.aux
+INPUT c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\.\TeX_files\Fundamentals\02-chapter02.aux
+INPUT c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Fundamentals\02-chapter02.aux
+INPUT c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\.\TeX_files\Fundamentals\03-chapter03.aux
+INPUT c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\.\TeX_files\Fundamentals\03-chapter03.aux
+INPUT c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Fundamentals\03-chapter03.aux
 INPUT c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\.\TeX_files\Developments_and_applications_p1\00-developments-applications-01.aux
 INPUT c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\.\TeX_files\Developments_and_applications_p1\00-developments-applications-01.aux
 INPUT c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Developments_and_applications_p1\00-developments-applications-01.aux
