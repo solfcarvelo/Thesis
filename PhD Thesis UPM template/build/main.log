@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10) (preloaded format=pdflatex 2023.10.17)  17 OCT 2023 19:03
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10) (preloaded format=pdflatex 2023.10.17)  17 OCT 2023 19:07
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1606,7 +1606,10 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 
 Underfull \vbox (badness 2961) has occurred while \output is active []
 
- [15{C:/Users/Sol/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}] [16])
+ [15{C:/Users/Sol/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}]
+Underfull \vbox (badness 1365) has occurred while \output is active []
+
+ [16])
 \tf@toc=\write7
 \openout7 = `main.toc'.
 
@@ -1981,23 +1984,14 @@ Overfull \hbox (10.94998pt too wide) in paragraph at lines 1--1
 ) [37]
 \openout2 = `./TeX_files/Methodology/04-chapter04.aux'.
 
- (TeX_files/Methodology/04-chapter04.tex [38
 
-
-
-
-
-]
-chapter 16.
-
-Overfull \hbox (10.94998pt too wide) in paragraph at lines 1--1
-[][][][][][][][] 
- []
-
-) [39]
+No file ./TeX_files/Methodology/04-chapter04.tex.
 \openout2 = `./TeX_files/Conclusions/conclusions.aux'.
 
- (TeX_files/Conclusions/conclusions.tex [40
+(TeX_files/Conclusions/conclusions.tex [38
+
+
+
 
 
 
@@ -2013,27 +2007,27 @@ Overfull \hbox (5.21796pt too wide) in paragraph at lines 1--1
  []| [][][][]
  []
 
-[41] [42]
-chapter 17.
+[39] [40]
+chapter 16.
 
 Overfull \hbox (10.94998pt too wide) in paragraph at lines 4--4
 [][][][][][][][] 
  []
 
-[43
+[41
 
 
-] [44
+] [42
 
 
 ]
-chapter 18.
+chapter 17.
 
 Overfull \hbox (10.94998pt too wide) in paragraph at lines 9--9
 [][][][][][][][] 
  []
 
-) [45] [46
+) [43] [44
 
 
 
@@ -2051,12 +2045,12 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <10> on input line 133.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <7> on input line 133.
- [47
+ [45
 
 
 
 
-] [48
+] [46
 
 
 ]
@@ -2069,11 +2063,11 @@ Overfull \hbox (10.94998pt too wide) in paragraph at lines 3--3
 [][][][][][][][] 
  []
 
-) [49
+) [47
 
 
 
-] [50
+] [48
 
 
 ] (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\main.aux (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Introduction\00-introduction.aux) (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Introduction\01-thesis_origin.aux) (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Introduction\02-original_contributions.aux) (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Introduction\03-thesis_structure.aux) (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Fundamentals\00-fundamentals.aux) (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Fundamentals\01-chapter01.aux) (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Fundamentals\02-chapter02.aux) (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Fundamentals\03-chapter03.aux) (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Fundamentals\04-chapter04.aux) (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Fundamentals\05-chapter05.aux) (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Fundamentals\06-chapter06.aux) (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Instrumentation\00-developments-applications-01.aux) (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Instrumentation\01-chapter01.aux) (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Instrumentation\02-chapter02.aux) (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Instrumentation\03-chapter03.aux) (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Methodology\00-developments-applications-02.aux) (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Methodology\01-chapter01.aux) (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Methodology\02-chapter02.aux) (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Methodology\03-chapter03.aux) (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Methodology\04-chapter04.aux) (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Conclusions\conclusions.aux) (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\Final_pages\Annex.aux))
@@ -2095,17 +2089,17 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 50380 strings out of 475247
- 1047386 string characters out of 5758735
- 2109467 words of memory out of 5000000
- 70565 multiletter control sequences out of 15000+600000
+ 50375 strings out of 475247
+ 1047175 string characters out of 5758735
+ 2109464 words of memory out of 5000000
+ 70564 multiletter control sequences out of 15000+600000
  687838 words of font info for 225 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  108i,21n,110p,10969b,2480s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/Sol/AppData/Local/Programs/MiKTeX/fonts/type1/bitstrea/charter/bchb8a.pfb><C:/Users/Sol/AppData/Local/Programs/MiKTeX/fonts/type1/bitstrea/charter/bchr8a.pfb><C:/Users/Sol/AppData/Local/Programs/MiKTeX/fonts/type1/bitstrea/charter/bchri8a.pfb><C:/Users/Sol/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmssbx10.pfb><C:/Users/Sol/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt10.pfb><C:/Users/Sol/AppData/Local/Programs/MiKTeX/fonts/type1/public/tex-gyre/qhvb.pfb><C:/Users/Sol/AppData/Local/Programs/MiKTeX/fonts/type1/public/tex-gyre/qhvr.pfb><C:/Users/Sol/AppData/Local/Programs/MiKTeX/fonts/type1/urw/bookman/ubkl8a.pfb><C:/Users/Sol/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvr8a.pfb>
-Output written on "c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\main.pdf" (74 pages, 297857 bytes).
+Output written on "c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\main.pdf" (72 pages, 297685 bytes).
 PDF statistics:
- 728 PDF objects out of 1000 (max. 8388607)
- 141 named destinations out of 1000 (max. 500000)
+ 718 PDF objects out of 1000 (max. 8388607)
+ 139 named destinations out of 1000 (max. 500000)
  92226 words of extra memory for PDF output out of 106986 (max. 10000000)
 
