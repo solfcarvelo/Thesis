@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10) (preloaded format=pdflatex 2023.10.17)  17 OCT 2023 17:17
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10) (preloaded format=pdflatex 2023.10.17)  17 OCT 2023 18:37
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1345,7 +1345,7 @@ Package: supertabular 2020/02/02 v4.1g the supertabular environment
 )) (C:\Users\Sol\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/styles\glossary-tree.sty
 Package: glossary-tree 2023/09/29 v4.53 (NLCT)
 \glstreeindent=\skip144
-))) (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\main.aux (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Introduction\00-introduction.aux) (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Introduction\01-thesis_origin.aux) (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Introduction\02-original_contributions.aux) (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Introduction\03-thesis_structure.aux) (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Fundamentals\00-fundamentals.aux) (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Fundamentals\01-chapter01.aux) (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Fundamentals\02-chapter02.aux) (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Fundamentals\03-chapter03.aux) (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Developments_and_applications_p1\00-developments-applications-01.aux) (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Developments_and_applications_p1\01-chapter01.aux) (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Developments_and_applications_p1\02-chapter02.aux) (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Developments_and_applications_p1\03-chapter03.aux) (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Developments_and_applications_p2\00-developments-applications-02.aux) (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Developments_and_applications_p2\01-chapter01.aux) (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Developments_and_applications_p2\02-chapter02.aux) (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Developments_and_applications_p2\03-chapter03.aux) (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Conclusions\conclusions.aux) (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\Final_pages\Annex.aux))
+))) (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\main.aux (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Introduction\00-introduction.aux) (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Introduction\01-thesis_origin.aux) (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Introduction\02-original_contributions.aux) (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Introduction\03-thesis_structure.aux) (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Fundamentals\00-fundamentals.aux) (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Fundamentals\01-chapter01.aux) (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Fundamentals\02-chapter02.aux) (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Fundamentals\03-chapter03.aux) (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Fundamentals\04-chapter04.aux) (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Fundamentals\05-chapter05.aux) (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Fundamentals\06-chapter06.aux) (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Instrumentation\00-instrumentation.aux) (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Instrumentation\01-ALHAMBRA lidar system.aux) (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Instrumentation\02-Overlap function retrieval.aux) (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Instrumentation\03-Depolarization capability.aux) (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Instrumentation\04-Vibrational and rotational Raman channels characterization.aux) (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Instrumentation\05-Bandwidth filter fluorescence channel characterization.aux) (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Instrumentation\06-Spectrometer coupling fluorescence channel characterization.aux) (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Instrumentation\00-developments-applications-01.aux) (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Introduction\01-chapter01.aux) (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Introduction\02-chapter02.aux) (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Introduction\03-chapter03.aux) (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Methodology\00-developments-applications-02.aux) (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Methodology\01-chapter01.aux) (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Methodology\02-chapter02.aux) (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Methodology\03-chapter03.aux) (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Conclusions\conclusions.aux) (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\Final_pages\Annex.aux))
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 29.
@@ -1599,6 +1599,9 @@ LaTeX Font Info:    Font shape `T1/lmss/b/n' in size <12> not available
 (Font)              Font shape `T1/lmss/bx/n' tried instead on input line 2.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <12> on input line 2.
+
+Underfull \vbox (badness 2961) has occurred while \output is active []
+
  [15{C:/Users/Sol/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}])
 \tf@toc=\write7
 \openout7 = `main.toc'.
@@ -1711,62 +1714,7 @@ LaTeX Warning: Reference `part:state_of_the_art' on page 7 undefined on input li
 ) [7]
 \openout2 = `./TeX_files/Fundamentals/00-fundamentals.aux'.
 
-
-No file ./TeX_files/Fundamentals/00-fundamentals.tex.
-\openout2 = `./TeX_files/Fundamentals/01-chapter01.aux'.
-
-(TeX_files/Fundamentals/01-chapter01.tex [8
-
-
-
-
-
-
-
-
-]
-chapter 4.
-
-Overfull \hbox (10.94998pt too wide) in paragraph at lines 1--1
-[][][][][][][][] 
- []
-
-) [9]
-\openout2 = `./TeX_files/Fundamentals/02-chapter02.aux'.
-
- (TeX_files/Fundamentals/02-chapter02.tex [10
-
-
-
-
-
-]
-chapter 5.
-
-Overfull \hbox (10.94998pt too wide) in paragraph at lines 1--1
-[][][][][][][][] 
- []
-
-) [11]
-\openout2 = `./TeX_files/Fundamentals/03-chapter03.aux'.
-
- (TeX_files/Fundamentals/03-chapter03.tex [12
-
-
-
-
-
-]
-chapter 6.
-
-Overfull \hbox (10.94998pt too wide) in paragraph at lines 1--1
-[][][][][][][][] 
- []
-
-) [13]
-\openout2 = `./TeX_files/Developments_and_applications_p1/00-developments-applications-01.aux'.
-
- (TeX_files/Developments_and_applications_p1/00-developments-applications-01.tex [14
+ (TeX_files/Fundamentals/00-fundamentals.tex [8
 
 
 
@@ -1782,28 +1730,74 @@ Overfull \hbox (5.21796pt too wide) in paragraph at lines 1--1
  []| [][][][]
  []
 
-[15] [16])
-\openout2 = `./TeX_files/Developments_and_applications_p1/01-chapter01.aux'.
+[9] [10])
+\openout2 = `./TeX_files/Fundamentals/01-chapter01.aux'.
 
- (TeX_files/Developments_and_applications_p1/01-chapter01.tex
+ (TeX_files/Fundamentals/01-chapter01.tex
+chapter 4.
+
+Overfull \hbox (10.94998pt too wide) in paragraph at lines 1--1
+[][][][][][][][] 
+ []
+
+) [11
+
+
+
+
+
+]
+\openout2 = `./TeX_files/Fundamentals/02-chapter02.aux'.
+
+ (TeX_files/Fundamentals/02-chapter02.tex [12
+
+
+
+
+
+]
+chapter 5.
+
+Overfull \hbox (10.94998pt too wide) in paragraph at lines 1--1
+[][][][][][][][] 
+ []
+
+) [13]
+\openout2 = `./TeX_files/Fundamentals/03-chapter03.aux'.
+
+ (TeX_files/Fundamentals/03-chapter03.tex [14
+
+
+
+
+
+]
+chapter 6.
+
+Overfull \hbox (10.94998pt too wide) in paragraph at lines 1--1
+[][][][][][][][] 
+ []
+
+) [15]
+\openout2 = `./TeX_files/Fundamentals/04-chapter04.aux'.
+
+ (TeX_files/Fundamentals/04-chapter04.tex [16
+
+
+
+
+
+]
 chapter 7.
 
 Overfull \hbox (10.94998pt too wide) in paragraph at lines 1--1
 [][][][][][][][] 
  []
 
-) [17
+) [17]
+\openout2 = `./TeX_files/Fundamentals/05-chapter05.aux'.
 
-
-
-
-
-
-
-{C:/Users/Sol/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathit.enc}{C:/Users/Sol/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathex.enc}{C:/Users/Sol/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc}{C:/Users/Sol/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathsy.enc}]
-\openout2 = `./TeX_files/Developments_and_applications_p1/02-chapter02.aux'.
-
- (TeX_files/Developments_and_applications_p1/02-chapter02.tex [18
+ (TeX_files/Fundamentals/05-chapter05.tex [18
 
 
 
@@ -1817,9 +1811,9 @@ Overfull \hbox (10.94998pt too wide) in paragraph at lines 1--1
  []
 
 ) [19]
-\openout2 = `./TeX_files/Developments_and_applications_p1/03-chapter03.aux'.
+\openout2 = `./TeX_files/Fundamentals/06-chapter06.aux'.
 
- (TeX_files/Developments_and_applications_p1/03-chapter03.tex [20
+ (TeX_files/Fundamentals/06-chapter06.tex [20
 
 
 
@@ -1833,9 +1827,52 @@ Overfull \hbox (10.94998pt too wide) in paragraph at lines 1--1
  []
 
 ) [21]
-\openout2 = `./TeX_files/Developments_and_applications_p2/00-developments-applications-02.aux'.
+\openout2 = `./TeX_files/Instrumentation/00-instrumentation.aux'.
 
- (TeX_files/Developments_and_applications_p2/00-developments-applications-02.tex [22
+
+No file ./TeX_files/Instrumentation/00-instrumentation.tex.
+\openout2 = `"./TeX_files/Instrumentation/01-ALHAMBRA lidar system.aux"'.
+
+No file ./TeX_files/Instrumentation/01-ALHAMBRA lidar system.tex.
+\openout2 = `"./TeX_files/Instrumentation/02-Overlap function retrieval.aux"'.
+
+No file ./TeX_files/Instrumentation/02-Overlap function retrieval.tex.
+\openout2 = `"./TeX_files/Instrumentation/03-Depolarization capability.aux"'.
+
+No file ./TeX_files/Instrumentation/03-Depolarization capability.tex.
+\openout2 = `"./TeX_files/Instrumentation/04-Vibrational and rotational Raman channels characterization.aux"'.
+
+No file ./TeX_files/Instrumentation/04-Vibrational and rotational Raman channels characterization.tex.
+\openout2 = `"./TeX_files/Instrumentation/05-Bandwidth filter fluorescence channel characterization.aux"'.
+
+No file ./TeX_files/Instrumentation/05-Bandwidth filter fluorescence channel characterization.tex.
+\openout2 = `"./TeX_files/Instrumentation/06-Spectrometer coupling fluorescence channel characterization.aux"'.
+
+No file ./TeX_files/Instrumentation/06-Spectrometer coupling fluorescence channel characterization.tex.
+\openout2 = `./TeX_files/Instrumentation/00-developments-applications-01.aux'.
+
+(TeX_files/Instrumentation/00-developments-applications-01.tex [22
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1852,72 +1889,31 @@ Overfull \hbox (5.21796pt too wide) in paragraph at lines 1--1
  []
 
 [23] [24])
-\openout2 = `./TeX_files/Developments_and_applications_p2/01-chapter01.aux'.
-
- (TeX_files/Developments_and_applications_p2/01-chapter01.tex
-chapter 10.
-
-Overfull \hbox (10.94998pt too wide) in paragraph at lines 1--1
-[][][][][][][][] 
- []
-
-<TeX_files/Developments_and_applications_p2/Figures/na23-mt4-XS-jeff33-jeff311.png, id=314, 704.6325pt x 470.75874pt>
-File: TeX_files/Developments_and_applications_p2/Figures/na23-mt4-XS-jeff33-jeff311.png Graphic file (type png)
-<use TeX_files/Developments_and_applications_p2/Figures/na23-mt4-XS-jeff33-jeff311.png>
-Package pdftex.def Info: TeX_files/Developments_and_applications_p2/Figures/na23-mt4-XS-jeff33-jeff311.png  used on input line 13.
-(pdftex.def)             Requested size: 394.78204pt x 263.7524pt.
-LaTeX Font Info:    Font shape `T1/lmss/b/n' in size <10> not available
-(Font)              Font shape `T1/lmss/bx/n' tried instead on input line 14.
-) [25
+\openout2 = `./TeX_files/Introduction/01-chapter01.aux'.
 
 
+No file ./TeX_files/Introduction/01-chapter01.tex.
+\openout2 = `./TeX_files/Introduction/02-chapter02.aux'.
 
+No file ./TeX_files/Introduction/02-chapter02.tex.
+\openout2 = `./TeX_files/Introduction/03-chapter03.aux'.
 
+No file ./TeX_files/Introduction/03-chapter03.tex.
+\openout2 = `./TeX_files/Methodology/00-developments-applications-02.aux'.
 
+No file ./TeX_files/Methodology/00-developments-applications-02.tex.
+\openout2 = `./TeX_files/Methodology/01-chapter01.aux'.
 
+No file ./TeX_files/Methodology/01-chapter01.tex.
+\openout2 = `./TeX_files/Methodology/02-chapter02.aux'.
 
- <./TeX_files/Developments_and_applications_p2/Figures/na23-mt4-XS-jeff33-jeff311.png>]
-\openout2 = `./TeX_files/Developments_and_applications_p2/02-chapter02.aux'.
+No file ./TeX_files/Methodology/02-chapter02.tex.
+\openout2 = `./TeX_files/Methodology/03-chapter03.aux'.
 
- (TeX_files/Developments_and_applications_p2/02-chapter02.tex [26
-
-
-
-
-
-]
-chapter 11.
-
-Overfull \hbox (10.94998pt too wide) in paragraph at lines 1--1
-[][][][][][][][] 
- []
-
-) [27]
-\openout2 = `./TeX_files/Developments_and_applications_p2/03-chapter03.aux'.
-
- (TeX_files/Developments_and_applications_p2/03-chapter03.tex [28
-
-
-
-
-
-]
-chapter 12.
-
-Overfull \hbox (10.94998pt too wide) in paragraph at lines 1--1
-[][][][][][][][] 
- []
-
-) [29]
+No file ./TeX_files/Methodology/03-chapter03.tex.
 \openout2 = `./TeX_files/Conclusions/conclusions.aux'.
 
- (TeX_files/Conclusions/conclusions.tex [30
-
-
-
-
-
-]
+(TeX_files/Conclusions/conclusions.tex
 part IV.
 Package scrkbase Info: You've told me to use the font selection of the element
 (scrkbase)             `partprefix' that is an alias of element `partnumber'
@@ -1927,33 +1923,62 @@ Overfull \hbox (5.21796pt too wide) in paragraph at lines 1--1
  []| [][][][]
  []
 
-[31] [32]
-chapter 13.
+[25
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+] [26]
+chapter 10.
 
 Overfull \hbox (10.94998pt too wide) in paragraph at lines 4--4
 [][][][][][][][] 
  []
 
-[33
+[27
 
 
-] [34
+] [28
 
 
 ]
-chapter 14.
+chapter 11.
 
 Overfull \hbox (10.94998pt too wide) in paragraph at lines 9--9
 [][][][][][][][] 
  []
 
-) [35] [36
+) [29] [30
 
 
 
 
 ]
-LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 130.
+LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 139.
  (C:\Users\Sol\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmtt.fd
 File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
@@ -1962,15 +1987,15 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 130.
+(Font)              <10> on input line 139.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 130.
- [37
+(Font)              <7> on input line 139.
+ [31
 
 
 
 
-] [38
+] [32
 
 
 ]
@@ -1983,14 +2008,14 @@ Overfull \hbox (10.94998pt too wide) in paragraph at lines 3--3
 [][][][][][][][] 
  []
 
-) [39
+) [33
 
 
 
-] [40
+] [34
 
 
-] (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\main.aux (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Introduction\00-introduction.aux) (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Introduction\01-thesis_origin.aux) (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Introduction\02-original_contributions.aux) (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Introduction\03-thesis_structure.aux) (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Fundamentals\00-fundamentals.aux) (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Fundamentals\01-chapter01.aux) (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Fundamentals\02-chapter02.aux) (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Fundamentals\03-chapter03.aux) (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Developments_and_applications_p1\00-developments-applications-01.aux) (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Developments_and_applications_p1\01-chapter01.aux) (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Developments_and_applications_p1\02-chapter02.aux) (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Developments_and_applications_p1\03-chapter03.aux) (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Developments_and_applications_p2\00-developments-applications-02.aux) (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Developments_and_applications_p2\01-chapter01.aux) (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Developments_and_applications_p2\02-chapter02.aux) (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Developments_and_applications_p2\03-chapter03.aux) (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Conclusions\conclusions.aux) (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\Final_pages\Annex.aux))
+] (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\main.aux (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Introduction\00-introduction.aux) (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Introduction\01-thesis_origin.aux) (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Introduction\02-original_contributions.aux) (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Introduction\03-thesis_structure.aux) (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Fundamentals\00-fundamentals.aux) (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Fundamentals\01-chapter01.aux) (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Fundamentals\02-chapter02.aux) (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Fundamentals\03-chapter03.aux) (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Fundamentals\04-chapter04.aux) (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Fundamentals\05-chapter05.aux) (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Fundamentals\06-chapter06.aux) (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Instrumentation\00-instrumentation.aux) (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Instrumentation\01-ALHAMBRA lidar system.aux) (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Instrumentation\02-Overlap function retrieval.aux) (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Instrumentation\03-Depolarization capability.aux) (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Instrumentation\04-Vibrational and rotational Raman channels characterization.aux) (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Instrumentation\05-Bandwidth filter fluorescence channel characterization.aux) (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Instrumentation\06-Spectrometer coupling fluorescence channel characterization.aux) (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Instrumentation\00-developments-applications-01.aux) (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Introduction\01-chapter01.aux) (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Introduction\02-chapter02.aux) (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Introduction\03-chapter03.aux) (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Methodology\00-developments-applications-02.aux) (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Methodology\01-chapter01.aux) (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Methodology\02-chapter02.aux) (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Methodology\03-chapter03.aux) (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Conclusions\conclusions.aux) (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\Final_pages\Annex.aux))
  ***********
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-08-29>
@@ -2006,17 +2031,17 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 50216 strings out of 475247
- 1043908 string characters out of 5758735
- 2092694 words of memory out of 5000000
- 70458 multiletter control sequences out of 15000+600000
- 688098 words of font info for 227 fonts, out of 8000000 for 9000
+ 50353 strings out of 475247
+ 1056201 string characters out of 5758735
+ 2122488 words of memory out of 5000000
+ 70582 multiletter control sequences out of 15000+600000
+ 681374 words of font info for 216 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  108i,20n,110p,10969b,2480s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/Sol/AppData/Local/Programs/MiKTeX/fonts/type1/bitstrea/charter/bchb8a.pfb><C:/Users/Sol/AppData/Local/Programs/MiKTeX/fonts/type1/bitstrea/charter/bchr8a.pfb><C:/Users/Sol/AppData/Local/Programs/MiKTeX/fonts/type1/bitstrea/charter/bchri8a.pfb><C:/Users/Sol/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmex10.pfb><C:/Users/Sol/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi10.pfb><C:/Users/Sol/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi8.pfb><C:/Users/Sol/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/Users/Sol/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr8.pfb><C:/Users/Sol/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmssbx10.pfb><C:/Users/Sol/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy10.pfb><C:/Users/Sol/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy8.pfb><C:/Users/Sol/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt10.pfb><C:/Users/Sol/AppData/Local/Programs/MiKTeX/fonts/type1/public/tex-gyre/qhvb.pfb><C:/Users/Sol/AppData/Local/Programs/MiKTeX/fonts/type1/public/tex-gyre/qhvr.pfb><C:/Users/Sol/AppData/Local/Programs/MiKTeX/fonts/type1/urw/bookman/ubkl8a.pfb><C:/Users/Sol/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvr8a.pfb>
-Output written on "c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\main.pdf" (62 pages, 330780 bytes).
+<C:/Users/Sol/AppData/Local/Programs/MiKTeX/fonts/type1/bitstrea/charter/bchb8a.pfb><C:/Users/Sol/AppData/Local/Programs/MiKTeX/fonts/type1/bitstrea/charter/bchr8a.pfb><C:/Users/Sol/AppData/Local/Programs/MiKTeX/fonts/type1/bitstrea/charter/bchri8a.pfb><C:/Users/Sol/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmssbx10.pfb><C:/Users/Sol/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt10.pfb><C:/Users/Sol/AppData/Local/Programs/MiKTeX/fonts/type1/public/tex-gyre/qhvb.pfb><C:/Users/Sol/AppData/Local/Programs/MiKTeX/fonts/type1/public/tex-gyre/qhvr.pfb><C:/Users/Sol/AppData/Local/Programs/MiKTeX/fonts/type1/urw/bookman/ubkl8a.pfb><C:/Users/Sol/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvr8a.pfb>
+Output written on "c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\main.pdf" (56 pages, 229504 bytes).
 PDF statistics:
- 591 PDF objects out of 1000 (max. 8388607)
- 106 named destinations out of 1000 (max. 500000)
- 92034 words of extra memory for PDF output out of 106986 (max. 10000000)
+ 509 PDF objects out of 1000 (max. 8388607)
+ 96 named destinations out of 1000 (max. 500000)
+ 85877 words of extra memory for PDF output out of 89155 (max. 10000000)
 
