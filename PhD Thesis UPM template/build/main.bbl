@@ -1,0 +1,65 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global}
+    \entry{Croff1983}{article}{}
+      \name{author}{1}{}{%
+        {{hash=96c46abc356dba6522f55613ba8a7e7f}{%
+           family={Croff},
+           familyi={C\bibinitperiod},
+           given={A.\bibnamedelimi G.},
+           giveni={A\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Taylor & Francis}%
+      }
+      \strng{namehash}{96c46abc356dba6522f55613ba8a7e7f}
+      \strng{fullhash}{96c46abc356dba6522f55613ba8a7e7f}
+      \strng{bibnamehash}{96c46abc356dba6522f55613ba8a7e7f}
+      \strng{authorbibnamehash}{96c46abc356dba6522f55613ba8a7e7f}
+      \strng{authornamehash}{96c46abc356dba6522f55613ba8a7e7f}
+      \strng{authorfullhash}{96c46abc356dba6522f55613ba8a7e7f}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nuclear Technology}
+      \field{number}{3}
+      \field{title}{ORIGEN2: A Versatile Computer Code for Calculating the Nuclide Compositions and Characteristics of Nuclear Materials}
+      \field{volume}{62}
+      \field{year}{1983}
+      \field{pages}{335\bibrangedash 352}
+      \range{pages}{18}
+      \verb{doi}
+      \verb 10.13182/NT83-1
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.13182/NT83-1
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.13182/NT83-1
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
