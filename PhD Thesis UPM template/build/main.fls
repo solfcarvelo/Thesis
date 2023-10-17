@@ -548,6 +548,9 @@ INPUT c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\
 INPUT c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\.\TeX_files\Methodology\03-chapter03.aux
 INPUT c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\.\TeX_files\Methodology\03-chapter03.aux
 INPUT c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Methodology\03-chapter03.aux
+INPUT c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\.\TeX_files\Methodology\04-chapter04.aux
+INPUT c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\.\TeX_files\Methodology\04-chapter04.aux
+INPUT c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Methodology\04-chapter04.aux
 INPUT c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\.\TeX_files\Conclusions\conclusions.aux
 INPUT c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\.\TeX_files\Conclusions\conclusions.aux
 INPUT c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Conclusions\conclusions.aux
@@ -868,6 +871,7 @@ INPUT .\TeX_files\Methodology\Figures\na23-mt4-XS-jeff33-jeff311.png
 INPUT .\TeX_files\Methodology\Figures\na23-mt4-XS-jeff33-jeff311.png
 INPUT C:\Users\Sol\AppData\Local\Programs\MiKTeX\fonts\tfm\bitstrea\charter\bchb8t.tfm
 INPUT C:\Users\Sol\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmssbx10.tfm
+INPUT C:\Users\Sol\AppData\Local\Programs\MiKTeX\fonts\tfm\public\tex-gyre\ec-qhvb.tfm
 INPUT .\TeX_files\Methodology\02-chapter02.tex
 INPUT .\TeX_files\Methodology\02-chapter02.tex
 OUTPUT c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\.\TeX_files\Methodology\02-chapter02.aux
@@ -882,6 +886,12 @@ OUTPUT c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build
 INPUT .\TeX_files\Methodology\03-chapter03.tex
 INPUT .\TeX_files\Methodology\03-chapter03.tex
 INPUT TeX_files\Methodology\03-chapter03.tex
+INPUT .\TeX_files\Methodology\04-chapter04.tex
+INPUT .\TeX_files\Methodology\04-chapter04.tex
+OUTPUT c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\.\TeX_files\Methodology\04-chapter04.aux
+INPUT .\TeX_files\Methodology\04-chapter04.tex
+INPUT .\TeX_files\Methodology\04-chapter04.tex
+INPUT TeX_files\Methodology\04-chapter04.tex
 INPUT .\TeX_files\Conclusions\conclusions.tex
 INPUT .\TeX_files\Conclusions\conclusions.tex
 OUTPUT c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\.\TeX_files\Conclusions\conclusions.aux
@@ -918,7 +928,6 @@ OUTPUT c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build
 INPUT .\Final_pages\Annex.tex
 INPUT .\Final_pages\Annex.tex
 INPUT Final_pages\Annex.tex
-INPUT C:\Users\Sol\AppData\Local\Programs\MiKTeX\fonts\tfm\public\tex-gyre\ec-qhvb.tfm
 INPUT c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\main.aux
 INPUT c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\.\TeX_files\Introduction\00-introduction.aux
 INPUT c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\.\TeX_files\Introduction\00-introduction.aux
@@ -977,6 +986,9 @@ INPUT c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\
 INPUT c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\.\TeX_files\Methodology\03-chapter03.aux
 INPUT c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\.\TeX_files\Methodology\03-chapter03.aux
 INPUT c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Methodology\03-chapter03.aux
+INPUT c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\.\TeX_files\Methodology\04-chapter04.aux
+INPUT c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\.\TeX_files\Methodology\04-chapter04.aux
+INPUT c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Methodology\04-chapter04.aux
 INPUT c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\.\TeX_files\Conclusions\conclusions.aux
 INPUT c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\.\TeX_files\Conclusions\conclusions.aux
 INPUT c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Conclusions\conclusions.aux
