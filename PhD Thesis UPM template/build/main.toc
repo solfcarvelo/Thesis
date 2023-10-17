@@ -44,13 +44,13 @@
 \contentsline {section}{\numberline {13.4}Overlap correction}{33}{section.13.4}%
 \contentsline {section}{\numberline {13.5}Analog and photocounting signals gluing}{33}{section.13.5}%
 \contentsline {section}{\numberline {13.6}Near- and far-field signals gluing}{33}{section.13.6}%
-\contentsline {chapter}{\numberline {14}Lidar elastic and inelastic data processing}{35}{chapter.14}%
-\contentsline {chapter}{\numberline {15}Depolarization retrieval}{37}{chapter.15}%
-\contentsline {chapter}{\numberline {16}Bandwidth filter fluorescence retrieval}{39}{chapter.16}%
-\contentsline {chapter}{\numberline {17}Spectral fluorescence retrieval}{41}{chapter.17}%
-\contentsline {part}{\numberline {V}CONCLUSIONS AND FUTURE WORK}{43}{part.5}%
-\contentsline {chapter}{\numberline {18}Conclusions}{45}{chapter.18}%
-\contentsline {chapter}{\numberline {19}Future work}{47}{chapter.19}%
-\contentsline {part}{BIBLIOGRAPHY}{49}{section*.7}%
-\contentsline {chapter}{\numberline {A}APPENDIX}{51}{appendix.a.A}%
-\contentsline {section}{\numberline {A.1}APPENDIX I}{51}{section.a.A.1}%
+\contentsline {chapter}{\numberline {14}Conventional lidar data processing}{35}{chapter.14}%
+\contentsline {chapter}{\numberline {15}Fluorescence data processing}{37}{chapter.15}%
+\contentsline {section}{\numberline {15.1}Bandwidth filter fluorescence channel measurements}{37}{section.15.1}%
+\contentsline {section}{\numberline {15.2}Fluorescence spectra measurements}{37}{section.15.2}%
+\contentsline {part}{\numberline {V}CONCLUSIONS AND FUTURE WORK}{39}{part.5}%
+\contentsline {chapter}{\numberline {16}Conclusions}{41}{chapter.16}%
+\contentsline {chapter}{\numberline {17}Future work}{43}{chapter.17}%
+\contentsline {part}{BIBLIOGRAPHY}{45}{section*.8}%
+\contentsline {chapter}{\numberline {A}APPENDIX}{47}{appendix.a.A}%
+\contentsline {section}{\numberline {A.1}APPENDIX I}{47}{section.a.A.1}%

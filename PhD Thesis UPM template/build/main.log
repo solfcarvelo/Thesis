@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10) (preloaded format=pdflatex 2023.10.17)  17 OCT 2023 19:16
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10) (preloaded format=pdflatex 2023.10.17)  17 OCT 2023 19:21
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1349,9 +1349,12 @@ Package: glossary-tree 2023/09/29 v4.53 (NLCT)
 
 LaTeX Warning: Label `sect::devs02_chapter1_triggerdelay' multiply defined.
 
-) (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Methodology\02-chapter02.aux) (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Methodology\03-chapter03.aux) (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Methodology\04-chapter04.aux) (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Methodology\05-chapter05.aux
+) (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Methodology\02-chapter02.aux) (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Methodology\03-chapter03.aux
 
-LaTeX Warning: Label `sect:devs02_chapter3' multiply defined.
+LaTeX Warning: Label `sect:devs02_chapter2' multiply defined.
+
+
+LaTeX Warning: Label `tab::table01' multiply defined.
 
 ) (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Conclusions\conclusions.aux) (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\Final_pages\Annex.aux))
 \openout1 = `main.aux'.
@@ -1607,7 +1610,10 @@ LaTeX Font Info:    Font shape `T1/lmss/b/n' in size <12> not available
 (Font)              Font shape `T1/lmss/bx/n' tried instead on input line 2.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <12> on input line 2.
- [15{C:/Users/Sol/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}] [16])
+ [15{C:/Users/Sol/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}]
+Underfull \vbox (badness 1365) has occurred while \output is active []
+
+ [16])
 \tf@toc=\write7
 \openout7 = `main.toc'.
 
@@ -1929,7 +1935,7 @@ Overfull \hbox (10.94998pt too wide) in paragraph at lines 1--1
 [][][][][][][][] 
  []
 
-<TeX_files/Methodology/Figures/na23-mt4-XS-jeff33-jeff311.png, id=397, 704.6325pt x 470.75874pt>
+<TeX_files/Methodology/Figures/na23-mt4-XS-jeff33-jeff311.png, id=399, 704.6325pt x 470.75874pt>
 File: TeX_files/Methodology/Figures/na23-mt4-XS-jeff33-jeff311.png Graphic file (type png)
 <use TeX_files/Methodology/Figures/na23-mt4-XS-jeff33-jeff311.png>
 Package pdftex.def Info: TeX_files/Methodology/Figures/na23-mt4-XS-jeff33-jeff311.png  used on input line 26.
@@ -1980,41 +1986,9 @@ Overfull \hbox (10.94998pt too wide) in paragraph at lines 1--1
  []
 
 ) [37]
-\openout2 = `./TeX_files/Methodology/04-chapter04.aux'.
-
- (TeX_files/Methodology/04-chapter04.tex [38
-
-
-
-
-
-]
-chapter 16.
-
-Overfull \hbox (10.94998pt too wide) in paragraph at lines 1--1
-[][][][][][][][] 
- []
-
-) [39]
-\openout2 = `./TeX_files/Methodology/05-chapter05.aux'.
-
- (TeX_files/Methodology/05-chapter05.tex [40
-
-
-
-
-
-]
-chapter 17.
-
-Overfull \hbox (10.94998pt too wide) in paragraph at lines 1--1
-[][][][][][][][] 
- []
-
-) [41]
 \openout2 = `./TeX_files/Conclusions/conclusions.aux'.
 
- (TeX_files/Conclusions/conclusions.tex [42
+ (TeX_files/Conclusions/conclusions.tex [38
 
 
 
@@ -2030,33 +2004,33 @@ Overfull \hbox (5.21796pt too wide) in paragraph at lines 1--1
  []| [][][][]
  []
 
-[43] [44]
-chapter 18.
+[39] [40]
+chapter 16.
 
 Overfull \hbox (10.94998pt too wide) in paragraph at lines 4--4
 [][][][][][][][] 
  []
 
-[45
+[41
 
 
-] [46
+] [42
 
 
 ]
-chapter 19.
+chapter 17.
 
 Overfull \hbox (10.94998pt too wide) in paragraph at lines 9--9
 [][][][][][][][] 
  []
 
-) [47] [48
+) [43] [44
 
 
 
 
 ]
-LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 133.
+LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 131.
  (C:\Users\Sol\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmtt.fd
 File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
@@ -2065,15 +2039,15 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 133.
+(Font)              <10> on input line 131.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 133.
- [49
+(Font)              <7> on input line 131.
+ [45
 
 
 
 
-] [50
+] [46
 
 
 ]
@@ -2086,14 +2060,14 @@ Overfull \hbox (10.94998pt too wide) in paragraph at lines 3--3
 [][][][][][][][] 
  []
 
-) [51
+) [47
 
 
 
-] [52
+] [48
 
 
-] (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\main.aux (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Introduction\00-introduction.aux) (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Introduction\01-thesis_origin.aux) (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Introduction\02-original_contributions.aux) (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Introduction\03-thesis_structure.aux) (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Fundamentals\00-fundamentals.aux) (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Fundamentals\01-chapter01.aux) (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Fundamentals\02-chapter02.aux) (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Fundamentals\03-chapter03.aux) (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Fundamentals\04-chapter04.aux) (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Fundamentals\05-chapter05.aux) (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Fundamentals\06-chapter06.aux) (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Instrumentation\00-developments-applications-01.aux) (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Instrumentation\01-chapter01.aux) (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Instrumentation\02-chapter02.aux) (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Instrumentation\03-chapter03.aux) (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Methodology\00-developments-applications-02.aux) (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Methodology\01-chapter01.aux) (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Methodology\02-chapter02.aux) (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Methodology\03-chapter03.aux) (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Methodology\04-chapter04.aux) (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Methodology\05-chapter05.aux) (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Conclusions\conclusions.aux) (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\Final_pages\Annex.aux))
+] (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\main.aux (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Introduction\00-introduction.aux) (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Introduction\01-thesis_origin.aux) (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Introduction\02-original_contributions.aux) (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Introduction\03-thesis_structure.aux) (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Fundamentals\00-fundamentals.aux) (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Fundamentals\01-chapter01.aux) (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Fundamentals\02-chapter02.aux) (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Fundamentals\03-chapter03.aux) (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Fundamentals\04-chapter04.aux) (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Fundamentals\05-chapter05.aux) (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Fundamentals\06-chapter06.aux) (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Instrumentation\00-developments-applications-01.aux) (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Instrumentation\01-chapter01.aux) (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Instrumentation\02-chapter02.aux) (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Instrumentation\03-chapter03.aux) (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Methodology\00-developments-applications-02.aux) (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Methodology\01-chapter01.aux) (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Methodology\02-chapter02.aux) (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Methodology\03-chapter03.aux) (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\TeX_files\Conclusions\conclusions.aux) (c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\Final_pages\Annex.aux))
  ***********
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-08-29>
@@ -2112,17 +2086,17 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 50407 strings out of 475247
- 1048966 string characters out of 5758735
- 2112336 words of memory out of 5000000
- 70583 multiletter control sequences out of 15000+600000
+ 50356 strings out of 475247
+ 1045805 string characters out of 5758735
+ 2106504 words of memory out of 5000000
+ 70547 multiletter control sequences out of 15000+600000
  687838 words of font info for 225 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  108i,21n,110p,10969b,2480s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/Sol/AppData/Local/Programs/MiKTeX/fonts/type1/bitstrea/charter/bchb8a.pfb><C:/Users/Sol/AppData/Local/Programs/MiKTeX/fonts/type1/bitstrea/charter/bchr8a.pfb><C:/Users/Sol/AppData/Local/Programs/MiKTeX/fonts/type1/bitstrea/charter/bchri8a.pfb><C:/Users/Sol/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmssbx10.pfb><C:/Users/Sol/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt10.pfb><C:/Users/Sol/AppData/Local/Programs/MiKTeX/fonts/type1/public/tex-gyre/qhvb.pfb><C:/Users/Sol/AppData/Local/Programs/MiKTeX/fonts/type1/public/tex-gyre/qhvr.pfb><C:/Users/Sol/AppData/Local/Programs/MiKTeX/fonts/type1/urw/bookman/ubkl8a.pfb><C:/Users/Sol/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvr8a.pfb>
-Output written on "c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\main.pdf" (76 pages, 300654 bytes).
+Output written on "c:\Users\Sol\OneDrive\Documentos\Sol_Thesis\PhD Thesis UPM template\build\main.pdf" (72 pages, 298181 bytes).
 PDF statistics:
- 741 PDF objects out of 1000 (max. 8388607)
- 144 named destinations out of 1000 (max. 500000)
+ 726 PDF objects out of 1000 (max. 8388607)
+ 141 named destinations out of 1000 (max. 500000)
  92234 words of extra memory for PDF output out of 106986 (max. 10000000)
 
