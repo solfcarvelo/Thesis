@@ -41,10 +41,10 @@
 \contentsline {section}{\numberline {13.3}Background subtraction}{33}{section.13.3}%
 \contentsline {section}{\numberline {13.4}Overlap correction}{33}{section.13.4}%
 \contentsline {section}{\numberline {13.5}Analog and photocounting signals gluing}{33}{section.13.5}%
-\contentsline {section}{\numberline {13.6}near- and far-field signals gluing}{33}{section.13.6}%
+\contentsline {section}{\numberline {13.6}Near- and far-field signals gluing}{33}{section.13.6}%
 \contentsline {chapter}{\numberline {14}Inversion retrievals}{35}{chapter.14}%
-\contentsline {section}{\numberline {14.1}Elastic retrieval: Klett method}{35}{section.14.1}%
-\contentsline {section}{\numberline {14.2}Inelastic retrieval: Raman method}{35}{section.14.2}%
+\contentsline {section}{\numberline {14.1}Elastic backscatter retrieval}{35}{section.14.1}%
+\contentsline {section}{\numberline {14.2}Inelastic retrieval}{35}{section.14.2}%
 \contentsline {chapter}{\numberline {15}Depolarization retrieval}{37}{chapter.15}%
 \contentsline {chapter}{\numberline {16}Fluorescence retrieval}{39}{chapter.16}%
 \contentsline {part}{\numberline {V}CONCLUSIONS AND FUTURE WORK}{41}{part.5}%
