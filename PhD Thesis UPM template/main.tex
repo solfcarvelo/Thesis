@@ -1,0 +1,144 @@
+% **************************************************
+% Document Class Definition
+% **************************************************
+\documentclass[%
+paper=A4,               % paper size --> A4 is default in Germany
+twoside=true,           % onesite or twoside printing
+openright,              % doublepage cleaning ends up right side
+parskip=half,           % spacing value / method for paragraphs
+chapterprefix=true,     % prefix for chapter marks
+11pt,                   % font size
+headings=normal,        % size of headings
+bibliography=nottotoc,     % include bib in toc
+listof=totoc,           % include listof entries in toc
+titlepage=on,           % own page for each title page
+captions=tableabove,    % display table captions above the float env
+chapterprefix=false,    % do not display a prefix for chapters
+appendixprefix=false,    % but display a prefix for appendix chapter
+draft=false,            % value for draft version
+]{scrreprt}%
+
+% **************************************************
+% Setup YOUR thesis document in this file !
+% **************************************************
+\input{thesis-setup}
+
+% **************************************************
+% Document CONTENT
+% **************************************************
+\begin{document}
+
+% --------------------------
+% rename document parts
+% --------------------------
+
+\renewcaptionname{english}{\figurename}{Fig.}
+\renewcaptionname{english}{\tablename}{Tab.}
+
+% --------------------------
+% Front matter
+% --------------------------
+\pagenumbering{roman}			% roman page numbing (invisible for empty page style)
+\pagestyle{empty}				% no header or footers
+\input{titulos/mainfront}
+\cleardoublepage
+
+\input{titulos/front}
+\cleardoublepage
+
+\input{titulos/tribunal}
+\cleardoublepage
+
+\input{titulos/funding}
+\cleardoublepage
+
+\pagestyle{plain}				% display just page numbers
+\input{titulos/abstract}		% the abstracts (english and spanish)
+\cleardoublepage
+%
+\input{titulos/acknowledgement} % acknowledgement
+\cleardoublepage
+%
+\setcounter{tocdepth}{2}		% define depth of toc
+\tableofcontents				% display table of contents
+\cleardoublepage
+
+\listoffigures
+\cleardoublepage
+
+\listoftables
+\cleardoublepage
+
+\input{titulos/acronimos}
+\cleardoublepage
+
+% --------------------------
+% Body matter
+% --------------------------
+\pagenumbering{arabic}			% arabic page numbering
+\setcounter{page}{1}			% set page counter
+\pagestyle{scrheadings} 	% fancy header and footer
+
+%Introduccion
+
+
+\include{./TeX_files/Introduction/00-introduction}
+\include{./TeX_files/Introduction/01-thesis_origin}
+\include{./TeX_files/Introduction/02-original_contributions}
+\include{./TeX_files/Introduction/03-thesis_structure}
+
+%Fundamentals
+
+\include{./TeX_files/Fundamentals/00-fundamentals}
+\include{./TeX_files/Fundamentals/01-chapter01}
+\include{./TeX_files/Fundamentals/02-chapter02}
+\include{./TeX_files/Fundamentals/03-chapter03}
+\include{./TeX_files/Fundamentals/04-chapter04}
+\include{./TeX_files/Fundamentals/05-chapter05}
+\include{./TeX_files/Fundamentals/06-chapter06}
+
+%Instrumentation and methodology
+
+\include{./TeX_files/Instrumentation/00-developments-applications-01}
+\include{./TeX_files/Instrumentation/01-chapter01}
+\include{./TeX_files/Instrumentation/02-chapter02}
+\include{./TeX_files/Instrumentation/03-chapter03}
+
+\include{./TeX_files/Methodology/00-developments-applications-02}
+\include{./TeX_files/Methodology/01-chapter01}
+\include{./TeX_files/Methodology/02-chapter02}
+\include{./TeX_files/Methodology/03-chapter03}
+
+%Conclusions
+
+\include{./TeX_files/Conclusions/conclusions}
+
+
+\cleardoublepage
+
+% --------------------------
+% Back matter
+% --------------------------
+{%
+\cleardoublepage
+\phantomsection
+\addcontentsline{toc}{part}{BIBLIOGRAPHY}
+
+\setstretch{1.1}
+\renewcommand{\bibfont}{\normalfont\small}
+\setlength{\biblabelsep}{0pt}
+\setlength{\bibitemsep}{0.5\baselineskip plus 0.5\baselineskip}
+\printbibliography
+}
+\cleardoublepage
+
+%Anexos
+\include{./Final_pages/Annex}
+
+\newpage
+\mbox{}
+
+% **************************************************
+% End of Document CONTENT
+% **************************************************
+\end{document}

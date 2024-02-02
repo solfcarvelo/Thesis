@@ -1,0 +1,56 @@
+\babel@toc {english}{}\relax 
+\contentsline {part}{\numberline {I}INTRODUCTION}{1}{part.1}%
+\contentsline {chapter}{\numberline {1}State of the art}{3}{chapter.1}%
+\contentsline {chapter}{\numberline {2}Objectives of this Thesis}{5}{chapter.2}%
+\contentsline {chapter}{\numberline {3}Layout of this Thesis}{7}{chapter.3}%
+\contentsline {part}{\numberline {II}FUNDAMENTALS}{9}{part.2}%
+\contentsline {chapter}{\numberline {4}Aerosol and climate}{11}{chapter.4}%
+\contentsline {chapter}{\numberline {5}Atmosphere structure and properties}{13}{chapter.5}%
+\contentsline {chapter}{\numberline {6}Radiation-atmosphere interaction}{15}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Elastic scattering}{15}{section.6.1}%
+\contentsline {section}{\numberline {6.2}Extinction}{15}{section.6.2}%
+\contentsline {section}{\numberline {6.3}Raman scattering}{15}{section.6.3}%
+\contentsline {section}{\numberline {6.4}Absorption}{15}{section.6.4}%
+\contentsline {section}{\numberline {6.5}Radiative transfer equation}{15}{section.6.5}%
+\contentsline {chapter}{\numberline {7}Atmospheric aerosol characterization}{17}{chapter.7}%
+\contentsline {chapter}{\numberline {8}Atmospheric aerosol properties}{19}{chapter.8}%
+\contentsline {section}{\numberline {8.1}Optical properties}{19}{section.8.1}%
+\contentsline {section}{\numberline {8.2}Microphysical properties}{19}{section.8.2}%
+\contentsline {chapter}{\numberline {9}Lidar technique}{21}{chapter.9}%
+\contentsline {section}{\numberline {9.1}Principle and ecuation}{21}{section.9.1}%
+\contentsline {section}{\numberline {9.2}Aerosol intensive properties}{21}{section.9.2}%
+\contentsline {section}{\numberline {9.3}Elastic and inelastic lidar retrievals}{21}{section.9.3}%
+\contentsline {section}{\numberline {9.4}Depolarization lidar}{21}{section.9.4}%
+\contentsline {section}{\numberline {9.5}Fluorescence lidar}{21}{section.9.5}%
+\contentsline {part}{\numberline {III}INSTRUMENTATION}{23}{part.3}%
+\contentsline {chapter}{\numberline {10}ALHAMBRA lidar system}{25}{chapter.10}%
+\contentsline {chapter}{\numberline {11}Setup and calibration}{27}{chapter.11}%
+\contentsline {section}{\numberline {11.1}Overlap function retrieval}{27}{section.11.1}%
+\contentsline {section}{\numberline {11.2}ND Filter optimization}{27}{section.11.2}%
+\contentsline {section}{\numberline {11.3}Depolarization optical elements adjustment}{27}{section.11.3}%
+\contentsline {section}{\numberline {11.4}Vibrational and rotational Raman channels characterization}{27}{section.11.4}%
+\contentsline {section}{\numberline {11.5}Bandwidth filter fluorescence channel calibration}{27}{section.11.5}%
+\contentsline {section}{\numberline {11.6}Spectrometer coupling fluorescence channel characterization}{27}{section.11.6}%
+\contentsline {chapter}{\numberline {12}Quality Assurance tests}{29}{chapter.12}%
+\contentsline {section}{\numberline {12.1}Rayleigh-fit}{29}{section.12.1}%
+\contentsline {section}{\numberline {12.2}Telecover}{29}{section.12.2}%
+\contentsline {section}{\numberline {12.3}Depolarization calibration}{29}{section.12.3}%
+\contentsline {section}{\numberline {12.4}Zero bin}{29}{section.12.4}%
+\contentsline {part}{\numberline {IV}METHODOLOGY}{31}{part.4}%
+\contentsline {chapter}{\numberline {13}Lidar data preprocessing}{33}{chapter.13}%
+\contentsline {section}{\numberline {13.1}Dead time correction}{33}{section.13.1}%
+\contentsline {section}{\numberline {13.2}Trigger delay correction}{33}{section.13.2}%
+\contentsline {section}{\numberline {13.3}Background subtraction}{33}{section.13.3}%
+\contentsline {section}{\numberline {13.4}Overlap correction}{33}{section.13.4}%
+\contentsline {section}{\numberline {13.5}Analog and photocounting signals gluing}{33}{section.13.5}%
+\contentsline {section}{\numberline {13.6}Near- and far-field signals gluing}{33}{section.13.6}%
+\contentsline {chapter}{\numberline {14}Conventional lidar data processing}{35}{chapter.14}%
+\contentsline {chapter}{\numberline {15}Fluorescence data processing}{37}{chapter.15}%
+\contentsline {section}{\numberline {15.1}Bandwidth filter fluorescence channel measurements}{37}{section.15.1}%
+\contentsline {section}{\numberline {15.2}Fluorescence spectra measurements}{37}{section.15.2}%
+\contentsline {part}{\numberline {V}CONCLUSIONS AND FUTURE WORK}{39}{part.5}%
+\contentsline {chapter}{\numberline {16}Conclusions}{41}{chapter.16}%
+\contentsline {chapter}{\numberline {17}Future work}{43}{chapter.17}%
+\contentsline {part}{BIBLIOGRAPHY}{45}{section*.8}%
+\contentsline {chapter}{\numberline {A}APPENDIX}{47}{appendix.a.A}%
+\contentsline {section}{\numberline {A.1}APPENDIX I}{47}{section.a.A.1}%
